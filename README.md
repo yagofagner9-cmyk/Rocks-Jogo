@@ -1,4 +1,5 @@
-# Rocks-Jogo <!-- Explain: Homepage shell with hero, game sections, and script includes. -->
+# Rocks-Jogo 
+<!-- Explain: Homepage shell with hero, game sections, and script includes. -->
 <!DOCTYPE html>
 <html lang="pt-BR" class="scroll-smooth">
     <head>
